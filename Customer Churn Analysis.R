@@ -10,8 +10,7 @@ install.packages("corrplot")
 
 # load necessary libraries
 
-library(googledrive)
-library(googlesheets4)
+
 library(tidyverse)
 library(readr)
 library(ggplot2)
